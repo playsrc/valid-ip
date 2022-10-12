@@ -1,0 +1,24 @@
+{
+  "name": "valid-ip",
+  "version": "0.0.1",
+  "description": "Check if the value is a valid IP address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusabelli/valid-ip.git"
+  },
+  "keywords": [
+    "Validator",
+    "IP Address",
+    "Form Validation"
+  ],
+  "author": "Mateus Abelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusabelli/valid-ip/issues"
+  },
+  "homepage": "https://github.com/mateusabelli/valid-ip#readme"
+}
