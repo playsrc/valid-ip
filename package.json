@@ -1,8 +1,9 @@
 {
   "name": "valid-ip",
-  "version": "0.0.1",
-  "description": "Check if the value is a valid IP address",
+  "version": "0.0.2",
+  "description": "Provides a small and reliable IPv4 and IPv6 validation library.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +12,14 @@
     "url": "git+https://github.com/mateusabelli/valid-ip.git"
   },
   "keywords": [
-    "Validator",
-    "IP Address",
-    "Form Validation"
+    "validator",
+    "ip address",
+    "form validation",
+    "ipv4",
+    "ipv6",
+    "ip validation",
+    "regex",
+    "ip address validation"
   ],
   "author": "Mateus Abelli",
   "license": "MIT",
