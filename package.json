@@ -4,8 +4,8 @@
   "version": "0.0.3",
   "author": "Mateus Abelli",
   "license": "MIT",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "./src/index.js",
+  "types": "./src/types/index.d.ts",
   "scripts": {
     "test": "jest --watchAll --verbose"
   },
