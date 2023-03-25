@@ -1,7 +1,7 @@
 {
   "name": "valid-ip",
   "description": "A small and reliable IPv4 and IPv6 validation library.",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "author": "Mateus Abelli",
   "license": "MIT",
   "main": "./src/index.js",
