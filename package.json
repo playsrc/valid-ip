@@ -6,6 +6,10 @@
   "license": "MIT",
   "main": "./src/index.js",
   "types": "./src/types/index.d.ts",
+  "files": [
+    "./src/index.js",
+    "./src/types/index.d.ts"
+  ],
   "scripts": {
     "test": "jest ./src/test"
   },
@@ -13,6 +17,10 @@
     "type": "git",
     "url": "git+https://github.com/mateusabelli/valid-ip.git"
   },
+  "funding": [{
+    "type": "github",
+    "url": "https://github.com/sponsors/mateusabelli"
+  }],
   "keywords": [
     "validator",
     "ip address",
