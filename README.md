@@ -1,11 +1,11 @@
-# valid-ip
+# Valid IP Library
 
 ![npm](https://img.shields.io/npm/dt/valid-ip)
-![npm bundle size](https://img.shields.io/bundlephobia/min/valid-ip)
-![NPM](https://img.shields.io/npm/l/valid-ip)
 ![npm](https://img.shields.io/npm/v/valid-ip)
+[![Node.js CI](https://github.com/mateusabelli/valid-ip/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/mateusabelli/valid-ip/actions/workflows/node.js.yml)
+[![NPM Package](https://github.com/mateusabelli/valid-ip/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/mateusabelli/valid-ip/actions/workflows/npm-publish.yml)
 
-Provides a small and reliable IPv4 and IPv6 validation library.
+**valid-ip** is a small and reliable **IPv4** and **IPv6** validation library.
 
 - [Installation](#installation)
 - [Documentation](#documentation)
