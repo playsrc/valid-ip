@@ -1,4 +1,4 @@
-const { isV4, isV6 } = require('..')
+const { isV4, isV6 } = require('../..')
 
 describe('IPv4 Tests', () => {
   it('should be only strings', () => {
