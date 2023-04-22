@@ -1,4 +1,4 @@
-namespace api;
+using ValidIp;
 
 public class Program
 {
@@ -10,25 +10,25 @@ public class Program
         app.MapGet("/validate/ipv4/{ip}", (string ip) =>
         {
             // TODO
-            return $"Validating... {ip} IPv4";
+            return Validate.IpV4(ip);
         });
 
         app.MapGet("/validate/ipv6/{ip}", (string ip) =>
         {
             // TODO
-            return $"Validating... {ip} IPv6";
+            return Validate.IpV6(ip);
         });
 
         app.MapGet("/generate/ipv4/{generateAmount}", (int generateAmount) =>
         {
             // TODO
-            return $"Generating... {generateAmount} x ipV4";
+            return Generate.IpV4(generateAmount);
         });
 
         app.MapGet("/generate/ipv6/{generateAmount}", (int generateAmount) =>
         {
             // TODO
-            return $"Generating... {generateAmount} x ipV6";
+            return Generate.IpV6(generateAmount);
         });
 
         app.Run();
