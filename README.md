@@ -1,9 +1,36 @@
-# Valid IP Library
+<h1 align="center">
+    Valid IP
+    <img
+        src=".github/list-checks.svg"
+        alt=""
+        width="50"
+        height="50"
+        align="center"
+    />
+</h1>
 
-![npm](https://img.shields.io/npm/dt/valid-ip)
-![npm](https://img.shields.io/npm/v/valid-ip)
-[![Node.js CI](https://github.com/mateusabelli/valid-ip/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/mateusabelli/valid-ip/actions/workflows/node.js.yml)
-[![NPM Package](https://github.com/mateusabelli/valid-ip/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/mateusabelli/valid-ip/actions/workflows/npm-publish.yml)
+<div align="center">
+    <img
+        src="https://img.shields.io/npm/dt/valid-ip?style=for-the-badge&logo=npm&logoColor=white"
+        alt="NPM Downloads"
+    />
+    <img
+        src="https://img.shields.io/github/actions/workflow/status/mateusabelli/valid-ip/node.js.yml?label=Node%20CI&style=for-the-badge&logo=github-actions&logoColor=white"
+        alt="Node CI"
+    />
+    <img
+        src="https://img.shields.io/github/actions/workflow/status/mateusabelli/valid-ip/npm-publish.yml?label=NPM%20Package&style=for-the-badge&logo=github-actions&logoColor=white"
+        alt="NPM Package"
+    />
+    <img
+        src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"
+        alt="GitHub Sponsors"
+    />
+</div>
+
+<br>
+
+> **Warning** This project is under development.
 
 **valid-ip** is a small and reliable **IPv4** and **IPv6** validation library.
 
